@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DBOperationProjectEFCore\\DBOperationWithEFCore\\DBOperationEFCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A5A1DE-B48D-4078-84A4-02C9F63FC74B}|DBOperationEFCore\\DBOperationEFCore.csproj|d:\\dboperationprojectefcore\\dboperationwithefcore\\dboperationefcore\\dboperationefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A5A1DE-B48D-4078-84A4-02C9F63FC74B}|DBOperationEFCore\\DBOperationEFCore.csproj|solutionrelative:dboperationefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A5A1DE-B48D-4078-84A4-02C9F63FC74B}|DBOperationEFCore\\DBOperationEFCore.csproj|d:\\dboperationprojectefcore\\dboperationwithefcore\\dboperationefcore\\dboperationefcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A5A1DE-B48D-4078-84A4-02C9F63FC74B}|DBOperationEFCore\\DBOperationEFCore.csproj|solutionrelative:dboperationefcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DBOperationProjectEFCore\\DBOperationWithEFCore\\DBOperationEFCore\\DBOperationEFCore\\appsettings.json",
+              "RelativeDocumentMoniker": "DBOperationEFCore\\appsettings.json",
+              "ToolTip": "D:\\DBOperationProjectEFCore\\DBOperationWithEFCore\\DBOperationEFCore\\DBOperationEFCore\\appsettings.json",
+              "RelativeToolTip": "DBOperationEFCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T16:32:24.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DBOperationProjectEFCore\\DBOperationWithEFCore\\DBOperationEFCore\\DBOperationEFCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBOperationEFCore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DBOperationProjectEFCore\\DBOperationWithEFCore\\DBOperationEFCore\\DBOperationEFCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBOperationEFCore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T16:32:17.659Z",
+              "EditorCaption": ""
             }
           ]
         }
